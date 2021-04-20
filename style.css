@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    margin: 0;
+}
+
+.obal {
+    background-color: #DCDCDC;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    gap: 2rem;
+    width:fit-content;
+}
+
+
+.vizitka {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.profilovka {
+    max-width: 150px;
+    border-radius: 50%;
+}
+
+h2 {
+    font-weight: 800;
+
+}
+
+.kontakty {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    width: 100%;
+}
+.ikona {
+    width: 35px;
+    height: 35px;
+}
+
